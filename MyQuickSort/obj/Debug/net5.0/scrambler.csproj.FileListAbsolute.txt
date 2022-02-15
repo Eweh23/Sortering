@@ -1,0 +1,32 @@
+C:\Users\Admin\Documents\scrambler\bin\Debug\net5.0\scrambler.exe
+C:\Users\Admin\Documents\scrambler\bin\Debug\net5.0\scrambler.deps.json
+C:\Users\Admin\Documents\scrambler\bin\Debug\net5.0\scrambler.runtimeconfig.json
+C:\Users\Admin\Documents\scrambler\bin\Debug\net5.0\scrambler.runtimeconfig.dev.json
+C:\Users\Admin\Documents\scrambler\bin\Debug\net5.0\scrambler.dll
+C:\Users\Admin\Documents\scrambler\bin\Debug\net5.0\ref\scrambler.dll
+C:\Users\Admin\Documents\scrambler\bin\Debug\net5.0\scrambler.pdb
+C:\Users\Admin\Documents\scrambler\obj\Debug\net5.0\scrambler.csproj.AssemblyReference.cache
+C:\Users\Admin\Documents\scrambler\obj\Debug\net5.0\scrambler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\scrambler\obj\Debug\net5.0\scrambler.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\scrambler\obj\Debug\net5.0\scrambler.AssemblyInfo.cs
+C:\Users\Admin\Documents\scrambler\obj\Debug\net5.0\scrambler.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\scrambler\obj\Debug\net5.0\scrambler.dll
+C:\Users\Admin\Documents\scrambler\obj\Debug\net5.0\ref\scrambler.dll
+C:\Users\Admin\Documents\scrambler\obj\Debug\net5.0\scrambler.pdb
+C:\Users\Admin\Documents\scrambler\obj\Debug\net5.0\scrambler.genruntimeconfig.cache
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\scrambler + Quicksort\bin\Debug\net5.0\scrambler.exe
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\scrambler + Quicksort\bin\Debug\net5.0\scrambler.deps.json
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\scrambler + Quicksort\bin\Debug\net5.0\scrambler.runtimeconfig.json
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\scrambler + Quicksort\bin\Debug\net5.0\scrambler.runtimeconfig.dev.json
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\scrambler + Quicksort\bin\Debug\net5.0\scrambler.dll
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\scrambler + Quicksort\bin\Debug\net5.0\ref\scrambler.dll
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\scrambler + Quicksort\bin\Debug\net5.0\scrambler.pdb
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\scrambler + Quicksort\obj\Debug\net5.0\scrambler.csproj.AssemblyReference.cache
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\scrambler + Quicksort\obj\Debug\net5.0\scrambler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\scrambler + Quicksort\obj\Debug\net5.0\scrambler.AssemblyInfoInputs.cache
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\scrambler + Quicksort\obj\Debug\net5.0\scrambler.AssemblyInfo.cs
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\scrambler + Quicksort\obj\Debug\net5.0\scrambler.csproj.CoreCompileInputs.cache
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\scrambler + Quicksort\obj\Debug\net5.0\scrambler.dll
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\scrambler + Quicksort\obj\Debug\net5.0\ref\scrambler.dll
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\scrambler + Quicksort\obj\Debug\net5.0\scrambler.pdb
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\scrambler + Quicksort\obj\Debug\net5.0\scrambler.genruntimeconfig.cache
