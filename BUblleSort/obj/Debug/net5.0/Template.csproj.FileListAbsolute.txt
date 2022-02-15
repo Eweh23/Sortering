@@ -1,0 +1,16 @@
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\Template\obj\Debug\net5.0\Template.csproj.AssemblyReference.cache
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\Template\obj\Debug\net5.0\Template.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\Template\obj\Debug\net5.0\Template.AssemblyInfoInputs.cache
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\Template\obj\Debug\net5.0\Template.AssemblyInfo.cs
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\Template\obj\Debug\net5.0\Template.csproj.CoreCompileInputs.cache
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\Template\bin\Debug\net5.0\Template.exe
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\Template\bin\Debug\net5.0\Template.deps.json
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\Template\bin\Debug\net5.0\Template.runtimeconfig.json
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\Template\bin\Debug\net5.0\Template.runtimeconfig.dev.json
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\Template\bin\Debug\net5.0\Template.dll
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\Template\bin\Debug\net5.0\ref\Template.dll
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\Template\bin\Debug\net5.0\Template.pdb
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\Template\obj\Debug\net5.0\Template.dll
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\Template\obj\Debug\net5.0\ref\Template.dll
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\Template\obj\Debug\net5.0\Template.pdb
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\Template\obj\Debug\net5.0\Template.genruntimeconfig.cache
