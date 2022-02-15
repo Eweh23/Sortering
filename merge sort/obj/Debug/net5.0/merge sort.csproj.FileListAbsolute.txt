@@ -1,0 +1,16 @@
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\merge sort\bin\Debug\net5.0\merge sort.exe
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\merge sort\bin\Debug\net5.0\merge sort.deps.json
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\merge sort\bin\Debug\net5.0\merge sort.runtimeconfig.json
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\merge sort\bin\Debug\net5.0\merge sort.runtimeconfig.dev.json
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\merge sort\bin\Debug\net5.0\merge sort.dll
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\merge sort\bin\Debug\net5.0\ref\merge sort.dll
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\merge sort\bin\Debug\net5.0\merge sort.pdb
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\merge sort\obj\Debug\net5.0\merge sort.csproj.AssemblyReference.cache
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\merge sort\obj\Debug\net5.0\merge sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\merge sort\obj\Debug\net5.0\merge sort.AssemblyInfoInputs.cache
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\merge sort\obj\Debug\net5.0\merge sort.AssemblyInfo.cs
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\merge sort\obj\Debug\net5.0\merge sort.csproj.CoreCompileInputs.cache
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\merge sort\obj\Debug\net5.0\merge sort.dll
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\merge sort\obj\Debug\net5.0\ref\merge sort.dll
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\merge sort\obj\Debug\net5.0\merge sort.pdb
+C:\Users\edvin\Documents\Programmering\Sorting-Project-main\merge sort\obj\Debug\net5.0\merge sort.genruntimeconfig.cache
